@@ -1,8 +1,10 @@
 
 Login
+
 ![image](https://github.com/user-attachments/assets/626f8b8d-5da3-4469-9a88-60c57be11e19)
 
 Register
+
 ![image](https://github.com/user-attachments/assets/e7521583-94bc-4470-9a73-05d2f0bf80ec)
 
 Admin Panel Dashboard
