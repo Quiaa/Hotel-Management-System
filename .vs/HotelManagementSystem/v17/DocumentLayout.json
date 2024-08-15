@@ -1,0 +1,433 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\admin_rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin_rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\staff_bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\staff_bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\staff_bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\staff_bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\staffmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\admin_rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin_rooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\admin_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\admin_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\admin_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\admin_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\admin_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\customersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\staff_bookroom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\staff_bookroom.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\hoteldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\hoteldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\roomsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\usersdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|c:\\users\\aeren\\source\\repos\\hotelmanagementsystem\\hotelmanagementsystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\hotelmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AC6D0D5-C53F-4ADE-BE9C-421FE7CBF73C}|HotelManagementSystem\\HotelManagementSystem.csproj|solutionrelative:hotelmanagementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin_rooms.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_rooms.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\admin_rooms.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_rooms.cs",
+              "RelativeToolTip": "HotelManagementSystem\\admin_rooms.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAwMkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:04:29.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:37:20.346Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\AdminMainForm.cs",
+              "RelativeToolTip": "HotelManagementSystem\\AdminMainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:03:16.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "staffMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staffMainForm.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\staffMainForm.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staffMainForm.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\staffMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:47:32.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "staffMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staffMainForm.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\staffMainForm.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staffMainForm.cs",
+              "RelativeToolTip": "HotelManagementSystem\\staffMainForm.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAD4vzYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:01:48.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "staff_bookRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staff_bookRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\staff_bookRoom.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staff_bookRoom.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\staff_bookRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:23:56.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "staff_bookRoom.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staff_bookRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\staff_bookRoom.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staff_bookRoom.cs",
+              "RelativeToolTip": "HotelManagementSystem\\staff_bookRoom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T15:25:34.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admin_dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_dashboard.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\admin_dashboard.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_dashboard.cs",
+              "RelativeToolTip": "HotelManagementSystem\\admin_dashboard.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:54:27.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "SQLQuery1.sql",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\SQLQuery1.sql",
+              "RelativeToolTip": "SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-21T21:42:30.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "admin_rooms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_rooms.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\admin_rooms.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_rooms.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\admin_rooms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:46:58.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admin_dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_dashboard.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\admin_dashboard.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_dashboard.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\admin_dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:37:50.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin_customers.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_customers.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\admin_customers.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_customers.cs",
+              "RelativeToolTip": "HotelManagementSystem\\admin_customers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:16:23.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "admin_customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_customers.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\admin_customers.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_customers.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\admin_customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:44:02.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "admin_addUser.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_addUser.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\admin_addUser.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_addUser.cs",
+              "RelativeToolTip": "HotelManagementSystem\\admin_addUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:36:12.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "admin_addUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_addUser.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\admin_addUser.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\admin_addUser.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\admin_addUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T11:18:13.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Form1.cs",
+              "RelativeToolTip": "HotelManagementSystem\\Form1.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAUwA4AAAC6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:18:17.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "customersData.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\customersData.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\customersData.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\customersData.cs",
+              "RelativeToolTip": "HotelManagementSystem\\customersData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:49:31.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "staff_bookRoom.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staff_bookRoom.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\staff_bookRoom.Designer.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\staff_bookRoom.Designer.cs",
+              "RelativeToolTip": "HotelManagementSystem\\staff_bookRoom.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:16:30.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clientInfo.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\clientInfo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\clientInfo.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\clientInfo.cs",
+              "RelativeToolTip": "HotelManagementSystem\\clientInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:33:52.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clientInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\clientInfo.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\clientInfo.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\clientInfo.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\clientInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:00:56.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "hotelData.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\hotelData.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\hotelData.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\hotelData.cs",
+              "RelativeToolTip": "HotelManagementSystem\\hotelData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T13:41:21.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "roomsData.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\roomsData.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\roomsData.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\roomsData.cs",
+              "RelativeToolTip": "HotelManagementSystem\\roomsData.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T23:59:01.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\RegistrationForm.cs",
+              "RelativeToolTip": "HotelManagementSystem\\RegistrationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:38:19.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "usersData.cs",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\usersData.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\usersData.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\usersData.cs",
+              "RelativeToolTip": "HotelManagementSystem\\usersData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:03:26.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\RegistrationForm.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T21:23:43.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "HotelManagementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\aeren\\source\\repos\\HotelManagementSystem\\HotelManagementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "HotelManagementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T20:43:14.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
